@@ -3,7 +3,7 @@
 Ce projet est une infographie interactive réalisée en React, déployée sur GitHub Pages. L'infographie aborde le sujet de **programming as an activity**, la sélection du bon langage de programmation, ainsi que les concepts de **No Code** et **Low Code**.
 
 🌐 Lien du projet déployé
-https://TBAHRITI-MED.github.io/mon-infographie
+[https://TBAHRITI-MED.github.io/mon-infographie](https://tbahriti-med.github.io/ProgrammingInfographic/)
 ## 📋 Description
 
 Ce projet a pour objectif de :
