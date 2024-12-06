@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProgrammingInfographic/static/css/main.617e685a.css",
+    "main.js": "/ProgrammingInfographic/static/js/main.b592768d.js",
+    "static/js/453.d57aebaa.chunk.js": "/ProgrammingInfographic/static/js/453.d57aebaa.chunk.js",
+    "index.html": "/ProgrammingInfographic/index.html",
+    "main.617e685a.css.map": "/ProgrammingInfographic/static/css/main.617e685a.css.map",
+    "main.b592768d.js.map": "/ProgrammingInfographic/static/js/main.b592768d.js.map",
+    "453.d57aebaa.chunk.js.map": "/ProgrammingInfographic/static/js/453.d57aebaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617e685a.css",
+    "static/js/main.b592768d.js"
+  ]
+}
